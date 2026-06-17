@@ -1,0 +1,15 @@
+[VIDEO]
+click the card that is different
+Select the card with a different animal
+Select the letter that changed
+
+[STATIC]
+Please click ALL animal icons matching the specified number
+Select all animal icons from the checklist
+Click each animal icon the exact number of times listed
+
+[DRAG]
+Please drag the segments on the right to complete the line
+Please drag the shape on the right to the place where it fits
+Please drag the star to the place the arrows are pointing at
+Please drag the icon on the top to the place where it fits

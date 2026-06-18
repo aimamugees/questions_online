@@ -2,6 +2,7 @@
 Click the card that is different
 Select the card with a different animal
 Select the tile that shows a different letter
+Please click on the number with the highest value
 
 [STATIC]
 

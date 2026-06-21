@@ -8,5 +8,6 @@ choose the card that shows a different animal
 
 [STATIC]
 Find and click the letters shown in the list
+Click all the letters requested in the list
 
 [DRAG]

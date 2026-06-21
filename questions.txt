@@ -4,6 +4,7 @@ Select the card with a different animal
 Select the tile that shows a different letter
 Please click on the number with the highest value
 choose the card that shows a different animal
+Find and click the letters shown in the list
 
 [STATIC]
 

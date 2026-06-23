@@ -10,5 +10,6 @@ Click the card that does not match
 [STATIC]
 Find and click the letters shown in the list
 Click all the letters requested in the list
+Find ALL objects the exact number of times specified
 
 [DRAG]
